@@ -9,8 +9,8 @@ Implementation of Statistical Learning Method
 
 ## Reference  
 
-[fengdu78/lihang-code](https://github.com/fengdu78/lihang-code)  
-[WenDesi/lihang_book_algorithm](https://github.com/WenDesi/lihang_book_algorithm)
+*[fengdu78/lihang-code](https://github.com/fengdu78/lihang-code)  
+*[WenDesi/lihang_book_algorithm](https://github.com/WenDesi/lihang_book_algorithm)
 
 License
 ----
