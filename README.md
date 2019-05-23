@@ -7,8 +7,9 @@ Implementation of Statistical Learning Method
 第二章：感知机 [perceptron.ipynb](https://nbviewer.jupyter.org/github/hktxt/Learn-Statistical-Learning-Method/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E6%84%9F%E7%9F%A5%E6%9C%BA/perceptron.ipynb)
 
 
-Reference
-[fengdu78/lihang-code](https://github.com/fengdu78/lihang-code)
+Reference  
+
+[fengdu78/lihang-code](https://github.com/fengdu78/lihang-code)  
 [WenDesi/lihang_book_algorithm](https://github.com/WenDesi/lihang_book_algorithm)
 
 License
