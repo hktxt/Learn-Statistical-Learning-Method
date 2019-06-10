@@ -10,7 +10,7 @@ Implementation of Statistical Learning Method
 第5章：决策树 [DT.ipynb](https://nbviewer.jupyter.org/github/hktxt/Learn-Statistical-Learning-Method/blob/master/%E7%AC%AC5%E7%AB%A0%20%E5%86%B3%E7%AD%96%E6%A0%91/DT.ipynb)  
 第6章：逻辑斯蒂回归与最大熵模型 [LR.ipynb](https://nbviewer.jupyter.org/github/hktxt/Learn-Statistical-Learning-Method/blob/master/%E7%AC%AC6%E7%AB%A0%20%E9%80%BB%E8%BE%91%E6%96%AF%E8%92%82%E5%9B%9E%E5%BD%92%E4%B8%8E%E6%9C%80%E5%A4%A7%E7%86%B5%E6%A8%A1%E5%9E%8B/LR.ipynb)  
 第7章：支持向量机 [SVM.ipynb](https://nbviewer.jupyter.org/github/hktxt/Learn-Statistical-Learning-Method/blob/master/%E7%AC%AC7%E7%AB%A0%20%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA/SVM.ipynb)  
-第8章：提升方法 []()
+第8章：提升方法 [Adaboost.ipynb](https://nbviewer.jupyter.org/github/hktxt/Learn-Statistical-Learning-Method/blob/master/%E7%AC%AC8%E7%AB%A0%20%E6%8F%90%E5%8D%87%E6%96%B9%E6%B3%95/Adaboost.ipynb)
 
 ## Reference  
 
