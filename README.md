@@ -1,6 +1,6 @@
-# Learn-Statistical-Learning-Method
+# Learn-Statistical-Learning-Method, Second Edition
 Implementation of Statistical Learning Method  
-《统计学习方法》算法实现。 
+《统计学习方法》第二版，算法实现。 
 
 
 第1章：统计学习方法概论 [least_sqaure_method.ipynb](https://nbviewer.jupyter.org/github/hktxt/Learn-Statistical-Learning-Method/blob/master/%E7%AC%AC1%E7%AB%A0%20%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E6%A6%82%E8%AE%BA/least_sqaure_method.ipynb)  
