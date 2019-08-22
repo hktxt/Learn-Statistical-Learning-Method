@@ -16,7 +16,8 @@ Implementation of Statistical Learning Method
 第11章：条件随机场 [CRF.ipynb](https://github.com/hktxt/Learn-Statistical-Learning-Method/blob/master/%E7%AC%AC11%E7%AB%A0%20%E6%9D%A1%E4%BB%B6%E9%9A%8F%E6%9C%BA%E5%9C%BA/CRF.ipynb)  
 第12章： 监督学习方法总结 [Summary_of_Supervised_Learning_Methods.ipynb](https://nbviewer.jupyter.org/github/hktxt/Learn-Statistical-Learning-Method/blob/master/%E7%AC%AC12%E7%AB%A0%20%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/Summary_of_Supervised_Learning_Methods.ipynb)  
 第13章：无监督学习概论 [Introduction_to_Unsupervised_Learning.ipynb](https://nbviewer.jupyter.org/github/hktxt/Learn-Statistical-Learning-Method/blob/master/%E7%AC%AC13%E7%AB%A0%20%E6%97%A0%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%AE%BA/Introduction_to_Unsupervised_Learning.ipynb)    
-第14章：聚类方法 [Clustering.ipynb](https://nbviewer.jupyter.org/github/hktxt/Learn-Statistical-Learning-Method/blob/master/第14章%20聚类方法/Clustering.ipynb)
+第14章：聚类方法 [Clustering.ipynb](https://nbviewer.jupyter.org/github/hktxt/Learn-Statistical-Learning-Method/blob/master/第14章%20聚类方法/Clustering.ipynb)  
+第15章：奇异值分解 [SVD.ipynb](https://nbviewer.jupyter.org/github/hktxt/Learn-Statistical-Learning-Method/blob/master/第15章%20奇异值分解/SVD.ipynb)
 
 ## Reference  
 
