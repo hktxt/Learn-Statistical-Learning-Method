@@ -18,7 +18,8 @@ Implementation of Statistical Learning Method
 第13章：无监督学习概论 [Introduction_to_Unsupervised_Learning.ipynb](https://nbviewer.jupyter.org/github/hktxt/Learn-Statistical-Learning-Method/blob/master/%E7%AC%AC13%E7%AB%A0%20%E6%97%A0%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%AE%BA/Introduction_to_Unsupervised_Learning.ipynb)    
 第14章：聚类方法 [Clustering.ipynb](https://nbviewer.jupyter.org/github/hktxt/Learn-Statistical-Learning-Method/blob/master/第14章%20聚类方法/Clustering.ipynb)  
 第15章：奇异值分解 [SVD.ipynb](https://nbviewer.jupyter.org/github/hktxt/Learn-Statistical-Learning-Method/blob/master/第15章%20奇异值分解/SVD.ipynb)  
-第16章：主成分分析 [PCA.ipynb](https://nbviewer.jupyter.org/github/hktxt/Learn-Statistical-Learning-Method/blob/master/%E7%AC%AC16%E7%AB%A0%20%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90/PCA.ipynb)
+第16章：主成分分析 [PCA.ipynb](https://nbviewer.jupyter.org/github/hktxt/Learn-Statistical-Learning-Method/blob/master/%E7%AC%AC16%E7%AB%A0%20%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90/PCA.ipynb)  
+第17章：潜在语义分析 [LSA.ipynb](https://nbviewer.jupyter.org/github/hktxt/Learn-Statistical-Learning-Method/blob/master/%E7%AC%AC17%E7%AB%A0%20%E6%BD%9C%E5%9C%A8%E8%AF%AD%E4%B9%89%E5%88%86%E6%9E%90/LSA.ipynb)
 
 ## Reference  
 
