@@ -25,11 +25,4 @@ Implementation of Statistical Learning Method
 第20章：潜在狄利克雷分配 [LDA.ipynb](https://nbviewer.jupyter.org/github/hktxt/Learn-Statistical-Learning-Method/blob/master/%E7%AC%AC20%E7%AB%A0%20%E6%BD%9C%E5%9C%A8%E7%8B%84%E5%88%A9%E5%85%8B%E9%9B%B7%E5%88%86%E9%85%8D/LDA.ipynb)
 
 
-## Reference  
 
-* [fengdu78/lihang-code](https://github.com/fengdu78/lihang-code)  
-* [WenDesi/lihang_book_algorithm](https://github.com/WenDesi/lihang_book_algorithm)
-
-License
-----
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
