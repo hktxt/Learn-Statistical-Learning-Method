@@ -1,5 +1,5 @@
-![alt text](SLM.jpg)
 # Learn-Statistical-Learning-Method, Second Edition
+![alt text](SLM.jpg)
 Implementation of Statistical Learning Method  
 《统计学习方法》第二版，算法实现。 
 
