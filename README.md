@@ -26,8 +26,9 @@ Implementation of Statistical Learning Method
 第21章：潜在狄利克雷分配 [PageRank.ipynb](https://nbviewer.jupyter.org/github/hktxt/Learn-Statistical-Learning-Method/blob/master/%E7%AC%AC21%E7%AB%A0%20PageRank%E7%AE%97%E6%B3%95/PageRank.ipynb)  
 
 
-# acknowledgment
 
-At present, this is a completely completed project, and I am still ignorant of many algorithms, which may need to be understood in practical applications to fully master.Some algorithms are reproduced independently by me, and some are referred to online resources. I will not list them here, but the specific links are in the file.I will keep updating this project until I have mastered all the algorithms in the book.
+## acknowledgment
+
+At present, this is still an incomplete project, and I am still ignorant of many algorithms, which may need to be understood in practical applications before I can fully master them.Some algorithms are reproduced independently by me, and some are referred to online resources. I will not list them here, but the specific links are in the file.I will keep updating this project until I have mastered all the algorithms in the book.
 
 
