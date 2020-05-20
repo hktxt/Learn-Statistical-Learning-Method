@@ -30,6 +30,6 @@ Implementation of Statistical Learning Method
 
 ## acknowledgment
 
-At present, this is still an incomplete project, and I am still ignorant of many algorithms, which may only be fully mastered in practical applications.Some algorithms are reproduced independently by myself, others are referred to online resources, not listed here, the specific link in the file.I will keep updating this project until I have mastered all the algorithms in the book.
+At present, this is still an incomplete project. For some algorithms, I am still ignorant, just followed the math equations to implement. Some algorithms are reproduced independently by myself, and others are referred to online resources, you can find the specific link in the file. I will keep updating this project until I have mastered all the algorithms in the book.
 
 
